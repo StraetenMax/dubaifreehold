@@ -129,5 +129,40 @@
         <mj-button>Register your interest</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>location</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>15 mins</mj-text>
+        <mj-text>tilal ai ghaf & dubai hills</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>20 mins</mj-text>
+        <mj-text>dubai airport & mall of the emirates</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>25 mins</mj-text>
+        <mj-text>dubai marina & palm jumeirah</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>5 mins</mj-text>
+        <mj-text>shops, schools & wellness</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button>Register your interest</mj-button>
+        <mj-text>Copyright 2025. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>You are subscribeb to this email as contact@ecosup-sante.fr</mj-text>
+        <mj-text>Click here to modify your preferences or unsubscribe</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
