@@ -46,33 +46,33 @@
         <mj-text padding="12px 0" align="center" mj-class="T14 fw0 cTW">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#002529">
       <mj-column>
-        <mj-divider></mj-divider>
-        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="28px">Own a Forest-Living Property in Dubai</mj-text>
-        <mj-divider></mj-divider>
-        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="22px">Ghaf Woods by Majid AI Futtaim</mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="28px" color="#ffffff">Own a Forest-Living Property in Dubai</mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="22px" color="#ffffff">Ghaf Woods by Majid AI Futtaim</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#002529">
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px">5%</mj-text>
-        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px">Down Payment</mj-text>
+        <mj-text padding="0" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px" color="#EEF1F5">5%</mj-text>
+        <mj-text padding="0" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Down Payment</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px">0%</mj-text>
-        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px">Interest</mj-text>
+        <mj-text padding="0" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px" color="#EEF1F5">0%</mj-text>
+        <mj-text padding="0" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Interest</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px">7 Years</mj-text>
-        <mj-text padding="0" align="center" font-family="Philisopher, Arial, Helvetica, sans-serif" font-size="15px">Payment Plan</mj-text>
+        <mj-text padding="0" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px" color="#EEF1F5">7 Years</mj-text>
+        <mj-text padding="0" align="center" container-background-color="#327900" font-family="Philisopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#002529">
       <mj-column>
-        <mj-button padding="0" align="0" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="20px">Register your interest >></mj-button>
-        <mj-button padding="0" align="0" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="14px">Dubai's first forest-living community</mj-button>
-        <mj-divider></mj-divider>
+        <mj-button padding="0" align="center" background-color="#ffffff" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="20px" border-radius="0" color="#000000">Register your interest >></mj-button>
+        <mj-button padding="0" align="center" background-color="#ffffff" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="14px" border-radius="0" color="#000000">Dubai's first forest-living community</mj-button>
+        <mj-divider border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section>
