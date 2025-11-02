@@ -49,29 +49,29 @@
     <mj-section>
       <mj-column>
         <mj-divider></mj-divider>
-        <mj-text>Own a Forest-Living Property in Dubai</mj-text>
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="28px">Own a Forest-Living Property in Dubai</mj-text>
         <mj-divider></mj-divider>
-        <mj-text>Ghaf Woods by Majid AI Futtaim</mj-text>
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="22px">Ghaf Woods by Majid AI Futtaim</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="4px" width="33.333333%">
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px">5%</mj-text>
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px">Down Payment</mj-text>
+      </mj-column>
+      <mj-column padding="4px" width="33.333333%">
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px">0%</mj-text>
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px">Interest</mj-text>
+      </mj-column>
+      <mj-column padding="4px" width="33.333333%">
+        <mj-text padding="0" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px">7 Years</mj-text>
+        <mj-text padding="0" align="center" font-family="Philisopher, Arial, Helvetica, sans-serif" font-size="15px">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>5%</mj-text>
-        <mj-text>Down Payment</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text>0%</mj-text>
-        <mj-text>Interest</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-text>7 Years</mj-text>
-        <mj-text>Payment Plan</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-button>Register your interest >></mj-button>
-        <mj-button>Dubai's first forest-living community</mj-button>
+        <mj-button padding="0" align="0" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="20px">Register your interest >></mj-button>
+        <mj-button padding="0" align="0" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="14px">Dubai's first forest-living community</mj-button>
         <mj-divider></mj-divider>
       </mj-column>
     </mj-section>
