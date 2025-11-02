@@ -77,56 +77,53 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-button>Register your interest</mj-button>
-        <mj-image src="images/exterieur.png" alt=""/>
+        <mj-button padding="0" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px">Register your interest</mj-button>
+        <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="50%">
+        <mj-text padding="0" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text padding="0" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px">10 Signature Amenties including</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-divider></mj-divider>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="17.5px" width="33,333333%">
+        <mj-image padding="0" width="64px" src="images/diningLoung.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px">districkt club & dining lounge</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-text>Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
+      <mj-column padding="17.5px" width="33,333333%">
+        <mj-image padding="0" width="64px" src="images/playZone.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px">kids play zone</mj-text>
+      </mj-column>
+      <mj-column padding="17.5px" width="33,333333%">
+        <mj-image padding="0" width="64px" src="images/wellness.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px">distrikt wellness</mj-text>
+      </mj-column>
+      <mj-column padding="17.5px" width="33,333333%">
+        <mj-image padding="0" width="64px" src="images/swimPool.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px">main pool & shaded kids pool</mj-text>
+      </mj-column>
+      <mj-column padding="17.5px" width="33,333333%">
+        <mj-image padding="0" width="64px" src="images/climbingWall.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px">fitness studio & climbing wall</mj-text>
+      </mj-column>
+      <mj-column padding="17.5px" width="33,333333%">
+        <mj-image padding="0" width="64px" src="images/coworking.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px">co-working spaces</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>10 Signature Amenties including</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image src="images/diningLoung.png" alt=""/>
-        <mj-text>districkt club & dining lounge</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="images/playZone.png" alt=""/>
-        <mj-text>kids play zone</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="images/wellness.png" alt=""/>
-        <mj-text>distrikt wellness</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="images/swimPool.png" alt=""/>
-        <mj-text>main pool & shaded kids pool</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="images/climbingWall.png" alt=""/>
-        <mj-text>fitness studio & climbing wall</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="images/coworking.png" alt=""/>
-        <mj-text>co-working spaces</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image src="images/interieur.png" alt=""/>
-        <mj-button>Register your interest</mj-button>
+        <mj-image padding="0" width="500px" src="images/interieur.png" alt=""/>
+        <mj-button padding="0" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px">Register your interest</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
