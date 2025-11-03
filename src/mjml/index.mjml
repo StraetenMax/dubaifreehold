@@ -75,55 +75,58 @@
         <mj-divider border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" background-color="#073324">
-      <mj-column>
-        <mj-button padding="0" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">Register your interest</mj-button>
+    <mj-section padding="0 0px" background-color="#073324">
+      <mj-column padding="23px 50px" padding-top="20px" width="100%">
+        <mj-button padding="0" width="100%" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">Register your interest</mj-button>
+      </mj-column>
+      <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" background-color="#00412b">
-      <mj-column width="50%" background-color="#513b07">
+      <mj-column width="50%" padding="28px 20px" background-color="#513b07">
         <mj-text padding="0" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
       </mj-column>
-      <mj-column width="50%" background-color="#513b07">
+      <mj-column width="50%" padding="28px 20px" background-color="#513b07">
         <mj-text padding="0" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" background-color="#00412b">
-      <mj-column background-color="#002b1c">
+      <mj-column background-color="#002b1c" padding="25px 0px">
         <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">10 Signature Amenties including</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" background-color="#00412b">
-      <mj-column padding="17.5px" width="33,333333%" background-color="#002b1c">
-        <mj-image padding="0" width="64px" src="images/diningLoung.png" alt=""/>
+      <mj-column padding="18px" width="33%" background-color="#002b1c">
+        <mj-image padding="0" padding-bottom="12px" width="64px" src="images/diningLoung.png" alt=""/>
         <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">districkt club & dining lounge</mj-text>
       </mj-column>
-      <mj-column padding="17.5px" width="33,333333%" background-color="#002b1c">
-        <mj-image padding="0" width="64px" src="images/playZone.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">kids play zone</mj-text>
+      <mj-column padding="18px" width="34%" background-color="#002b1c">
+        <mj-image padding="0" padding-bottom="12px" width="64px" src="images/playZone.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">kids<br>play zone</mj-text>
       </mj-column>
-      <mj-column padding="17.5px" width="33,333333%" background-color="#002b1c">
-        <mj-image padding="0" width="64px" src="images/wellness.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">distrikt wellness</mj-text>
+      <mj-column padding="18px" width="33%" background-color="#002b1c">
+        <mj-image padding="0" padding-bottom="12px" width="64px" src="images/wellness.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">distrikt<br>wellness</mj-text>
       </mj-column>
-      <mj-column padding="17.5px" width="33,333333%" background-color="#002b1c">
-        <mj-image padding="0" width="64px" src="images/swimPool.png" alt=""/>
+      <mj-column padding="18px" width="33%" background-color="#002b1c">
+        <mj-image padding="0" padding-bottom="12px" width="64px" src="images/swimPool.png" alt=""/>
         <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">main pool & shaded kids pool</mj-text>
       </mj-column>
-      <mj-column padding="17.5px" width="33,333333%" background-color="#002b1c">
-        <mj-image padding="0" width="64px" src="images/climbingWall.png" alt=""/>
+      <mj-column padding="18px" width="34%" background-color="#002b1c">
+        <mj-image padding="0" padding-bottom="12px" width="64px" src="images/climbingWall.png" alt=""/>
         <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">fitness studio & climbing wall</mj-text>
       </mj-column>
-      <mj-column padding="17.5px" width="33,333333%" background-color="#002b1c">
-        <mj-image padding="0" width="64px" src="images/coworking.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">co-working spaces</mj-text>
+      <mj-column padding="18px" width="33%" background-color="#002b1c">
+        <mj-image padding="0" padding-bottom="12px" width="64px" src="images/coworking.png" alt=""/>
+        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">co-working<br>spaces</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#00412b">
+    <mj-section padding="0 50px" padding-top="20px" background-color="#00412b">
       <mj-column>
         <mj-image padding="0" width="500px" src="images/interieur.png" alt=""/>
-        <mj-button padding="0" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">Register your interest</mj-button>
+        <mj-spacer height="18px"></mj-spacer>
+        <mj-button padding="0" width="100%" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff" border-radius="0">Register your interest</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0" padding-top="25px" background-color="#063323">
