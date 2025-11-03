@@ -126,33 +126,33 @@
         <mj-button padding="0" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">Register your interest</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" padding-top="20px" background-color="#063323">
-      <mj-column background-color="#002b1c">
+    <mj-section padding="0" padding-top="25px" background-color="#063323">
+      <mj-column background-color="#002b1c" padding="25px 40px" padding-bottom="15px">
         <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="24px" color="#ffffff">location</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="20px 40px" background-color="#002b1c">
+    <mj-section padding="0px 40px" background-color="#002b1c">
       <mj-column width="50%" padding="10px">
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="24px" color="#ffffff">15 mins</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">tilal ai ghaf & dubai hills</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">tilal ai ghaf & dubai hills</mj-text>
       </mj-column>
       <mj-column width="50%" padding="10px">
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="24px" color="#ffffff">20 mins</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">dubai airport & mall of the emirates</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">dubai airport & mall of the emirates</mj-text>
       </mj-column>
       <mj-column width="50%" padding="10px">
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="24px" color="#ffffff">25 mins</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">dubai marina & palm jumeirah</mj-text>
+        <mj-text padding="0" padding-top="10px" align="center" font-family="Arial, Helvetica, sans-serif" font-size="24px" color="#ffffff">25 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">dubai marina & palm jumeirah</mj-text>
       </mj-column>
       <mj-column width="50%" padding="10px">
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="24px" color="#ffffff">5 mins</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">shops, schools & wellness</mj-text>
+        <mj-text padding="0" padding-top="10px" align="center" font-family="Arial, Helvetica, sans-serif" font-size="24px" color="#ffffff">5 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" font-family="Arial, Helvetica, sans-serif" font-size="15px" color="#b3c7b5">shops, schools & wellness</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#002b1c">
+    <mj-section background-color="#002b1c" padding="25px 50px">
       <mj-column>
         <mj-button padding="0" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">Register your interest</mj-button>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13px" color="#ffffff">Copyright 2025. All rights reserved.</mj-text>
+        <mj-text padding="0" padding-top="40px" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13px" color="#ffffff">Copyright 2025. All rights reserved.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
