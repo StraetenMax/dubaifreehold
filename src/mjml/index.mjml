@@ -46,7 +46,7 @@
         <mj-text padding="12px 0" align="center" mj-class="T14 fw0 cTW">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 35px" background-color="#002529">
+    <mj-section padding="0 50px" background-color="#073324">
       <mj-column>
         <mj-divider padding-top="19px" border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
         <mj-text padding="0" padding-top="12px" padding-bottom="15px" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="28px" color="#ffffff">Own a Forest-Living Property in Dubai</mj-text>
@@ -54,7 +54,7 @@
         <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="22px" color="#ffffff">Ghaf Woods by Majid AI Futtaim</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 35px" background-color="#002529">
+    <mj-section padding="5px 46px" padding-bottom="40px" background-color="#073324">
       <mj-column padding="4px" width="33.333333%">
         <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px" color="#EEF1F5">5%</mj-text>
         <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Down Payment</mj-text>
@@ -68,18 +68,9 @@
         <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="Philisopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 35px" background-color="#002529">
-      <mj-column width="100%">
-        <mj-button padding="0" padding-top="32px" align="center" background-color="#ffffff" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="20px" border-radius="0" color="#000000">Register your interest >></mj-button>
-        <mj-button padding="0" padding-top="23px" align="center" background-color="#ffffff" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="14px" border-radius="0" color="#000000">Dubai's first forest-living community</mj-button>
-      </mj-column>
-      <mj-column padding-top="30px" padding-bottom="23px" width="100%">
-        <mj-divider border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
-      </mj-column>
-    </mj-section>
     <mj-section padding="0 0px" background-color="#073324">
       <mj-column padding="23px 50px" padding-top="20px" width="100%">
-        <mj-button padding="0" width="100%" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">Register your interest</mj-button>
+        <mj-button padding="0" inner-padding="14px 25px" width="100%" background-color="#9a7800" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" letter-spacing="3.5px" text-transform="uppercase" border-radius="0">Register your interest</mj-button>
       </mj-column>
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
@@ -131,7 +122,7 @@
       <mj-column>
         <mj-image padding="0" width="500px" src="images/interieur.png" alt=""/>
         <mj-spacer height="18px"></mj-spacer>
-        <mj-button padding="0" width="100%" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff" border-radius="0">Register your interest</mj-button>
+        <mj-button padding="0" inner-padding="14px 25px" width="100%" background-color="#9a7800" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" letter-spacing="3.5px" text-transform="uppercase" border-radius="0">Register your interest</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0" padding-top="25px" background-color="#063323">
@@ -159,7 +150,7 @@
     </mj-section>
     <mj-section background-color="#002b1c" padding="25px 50px">
       <mj-column>
-        <mj-button padding="0" inner-padding="14px 25px" width="70%" background-color="#9a7800" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" color="#ffffff" letter-spacing="3.5px" text-transform="uppercase">Register your interest</mj-button>
+        <mj-button padding="0" inner-padding="14px 25px" width="70%" background-color="#9a7800" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" letter-spacing="3.5px" text-transform="uppercase" border-radius="0">Register your interest</mj-button>
         <mj-text padding="0" padding-top="40px" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="15px" color="#ffffff">Copyright 2025. All rights reserved.</mj-text>
       </mj-column>
     </mj-section>
