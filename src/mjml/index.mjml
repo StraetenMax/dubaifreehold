@@ -101,7 +101,7 @@
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/diningLoung.png" alt=""/>
         <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">districkt club & dining lounge</mj-text>
       </mj-column>
-      <mj-column padding="0 18px" padding-bottom="24px" width="34%" background="background" dor="#002b1c">
+      <mj-column padding="0 18px" padding-bottom="24px" width="34%" background-color="#002b1c">
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/playZone.png" alt=""/>
         <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">kids<br>play zone</mj-text>
       </mj-column>
