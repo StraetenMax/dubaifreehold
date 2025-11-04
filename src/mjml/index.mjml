@@ -49,28 +49,29 @@
     <mj-section padding="0 50px" background-color="#073324">
       <mj-column>
         <mj-divider padding-top="19px" border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
-        <mj-text padding="0" padding-top="12px" padding-bottom="15px" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="28px" color="#ffffff">Own a Forest-Living Property in Dubai</mj-text>
+        <mj-text padding="0" padding-top="12px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="30px" font-weight="600" line-height="36px" color="#ffffff" letter-spacing="2px">Own a Forest-Living</mj-text>
+        <mj-text padding="0" padding-bottom="15px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="30px" font-weight="600" line-height="36px" color="#ffffff" letter-spacing="2px">Property in Dubai</mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="#dddddd"></mj-divider>
-        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="22px" color="#ffffff">Ghaf Woods by Majid AI Futtaim</mj-text>
+        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="22px" color="#ffffff">Ghaf Woods by Majid AI Futtaim</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="5px 46px" padding-bottom="40px" background-color="#073324">
+    <mj-section padding="5px 46px" background-color="#073324">
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px" color="#EEF1F5">5%</mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Down Payment</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" color="#EEF1F5">5<span style="font-size:26px;font-weight:400">%</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="15px" font-weight="400" color="#DEE2E5">Down Payment</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px" color="#EEF1F5">0%</mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Interest</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" color="#EEF1F5">0<span style="font-size:26px;font-weight:400">%</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="15px" font-weight="400" color="#DEE2E5">Interest</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" font-family="Philosopher, Arial, Helvetica, sans-serif" font-size="36px" color="#EEF1F5">7 Years</mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="Philisopher, Arial, Helvetica, sans-serif" font-size="15px" color="#DEE2E5">Payment Plan</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="36px" font-weight="700" color="#EEF1F5">7<span style="font-size:26px;font-weight:400">years</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="15px" font-weight="400" color="#DEE2E5">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0px" background-color="#073324">
-      <mj-column padding="23px 50px" padding-top="20px" width="100%">
-        <mj-button padding="0" inner-padding="14px 25px" width="100%" background-color="#9a7800" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" letter-spacing="3.5px" text-transform="uppercase" border-radius="0">Register your interest</mj-button>
+      <mj-column padding="40px 50px" padding-top="20px" width="100%">
+        <mj-button padding="0" inner-padding="14px 25px" width="70%" background-color="#9a7800" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" letter-spacing="3.5px" text-transform="uppercase" border-radius="0">Register your interest</mj-button>
       </mj-column>
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
@@ -78,41 +79,41 @@
     </mj-section>
     <mj-section padding="0 50px" background-color="#00412b">
       <mj-column width="55%" padding="28px 24px" background-color="#513b07">
-        <mj-text padding="0" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" font-weight="600" line-height="18px" color="#ffffff">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
+        <mj-text padding="0" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px" font-weight="600" line-height="18px" color="#ffffff">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
       </mj-column>
       <mj-column width="45%" padding="28px 24px" background-color="#513b07">
-        <mj-text padding="0" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" font-weight="600" line-height="18px" color="#ffffff">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
+        <mj-text padding="0" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px" font-weight="600" line-height="18px" color="#ffffff">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" background-color="#00412b">
       <mj-column background-color="#002b1c" padding="25px 0px">
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16px" color="#ffffff">10 Signature Amenties including</mj-text>
+        <mj-text padding="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="16px" font-weight="600" line-height="18px" color="#ffffff">10 Signature Amenties including</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" background-color="#00412b">
       <mj-column padding="0 18px" padding-bottom="24px" width="33%" background-color="#002b1c">
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/diningLoung.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">districkt club & dining lounge</mj-text>
+        <mj-text padding="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18px" color="#ffffff" text-transform="capitalize">districkt club & dining lounge</mj-text>
       </mj-column>
       <mj-column padding="0 18px" padding-bottom="24px" width="34%" background-color="#002b1c">
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/playZone.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">kids<br>play zone</mj-text>
+        <mj-text padding="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18.5px" color="#ffffff" text-transform="capitalize">kids<br>play zone</mj-text>
       </mj-column>
       <mj-column padding="0 18px" padding-bottom="24px" width="33%" background-color="#002b1c">
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/wellness.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">distrikt<br>wellness</mj-text>
+        <mj-text padding="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18px" color="#ffffff" text-transform="capitalize">distrikt<br>wellness</mj-text>
       </mj-column>
       <mj-column padding="0 18px" width="33%" background-color="#002b1c">
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/swimPool.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">main pool & shaded kids pool</mj-text>
+        <mj-text padding="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18px" color="#ffffff" text-transform="capitalize">main pool &<br>shaded kids pool</mj-text>
       </mj-column>
       <mj-column padding="0 18px" width="34%" background-color="#002b1c">
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/climbingWall.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">fitness studio & climbing wall</mj-text>
+        <mj-text padding="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18.5px" color="#ffffff" text-transform="capitalize">fitness studio &<br>climbing wall</mj-text>
       </mj-column>
       <mj-column padding="0 18px" width="33%" background-color="#002b1c">
         <mj-image padding="0" padding-bottom="12px" width="64px" src="images/coworking.png" alt=""/>
-        <mj-text padding="0" align="center" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" color="#ffffff">co-working<br>spaces</mj-text>
+        <mj-text padding="0" align="center" font-family="'Roboto', Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18px" color="#ffffff" text-transform="capitalize">co-working<br>spaces</mj-text>
       </mj-column>
       <mj-column width="100%">
         <mj-image padding="0" width="500px" src="images/bandeauVert.png" alt=""/>
