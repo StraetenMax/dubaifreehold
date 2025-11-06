@@ -76,6 +76,8 @@
       <mj-column padding="40px 8.333333%" padding-top="20px" width="100%">
         <mj-button width="70%">Register your interest</mj-button>
       </mj-column>
+    </mj-section>
+    <mj-section padding="0">
       <mj-column width="100%">
         <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
       </mj-column>
