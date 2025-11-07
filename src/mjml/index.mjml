@@ -37,11 +37,10 @@
       <mj-class name="cTW+1" color="#EEF1F5"/>
       <mj-class name="cTW+2" color="#DEE2E5"/>
       <mj-class name="cTV-2" color="#b3c7b5"/>
-      <mj-class name="cTV-1" color="#327900"/>
-      <mj-class name="cTV" color="#00412b"/>
+      <mj-class name="cbgV-1" container-background-color="#327900"/>
+      <mj-class name="bgV" background-color="#00412b"/>
       <mj-class name="bgV+1" background-color="#073324"/>
       <mj-class name="bgV+2" background-color="#002b1c"/>
-      <mj-class name="bgM" background-color="#513b07"/>
       <mj-divider padding="0" border-style="solid" border-width="1px" border-color="#eeeeee"></mj-divider>
       <mj-button padding="0" inner-padding="14px 25px" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" background-color="#9a7800" letter-spacing="3.5px" text-transform="uppercase" border-radius="0"></mj-button>
     </mj-attributes>
@@ -53,16 +52,16 @@
         <mj-text padding="12px 0" align="center" mj-class="cTW0 fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 50px" mj-class="bgTF">
+    <mj-section padding="0 50px" mj-class="bgV+1">
       <mj-column>
         <mj-divider padding-top="19px"></mj-divider>
-        <mj-text padding="0" padding-top="12px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW" letter-spacing="2px">Own a Forest-Living</mj-text>
-        <mj-text padding="0" padding-bottom="15px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW" letter-spacing="2px">Property in Dubai</mj-text>
+        <mj-text padding="0" padding-top="12px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW0" letter-spacing="2px">Own a Forest-Living</mj-text>
+        <mj-text padding="0" padding-bottom="15px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW0" letter-spacing="2px">Property in Dubai</mj-text>
         <mj-divider></mj-divider>
-        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 fw0 lh cTW">Ghaf Woods by Majid AI Futtaim</mj-text>
+        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 fw0 lh cTW0">Ghaf Woods by Majid AI Futtaim</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="5px 46px" mj-class="bgTF">
+    <mj-section padding="5px 46px" mj-class="bgV+1">
       <mj-column padding="4px" width="33.333333%">
         <mj-text padding="0" padding-top="14px" align="center" container-background-color="#327900" mj-class="T36 fw2" color="#EEF1F5">5<span style="font-size:26px;font-weight:400">%</span></mj-text>
         <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" mj-class="T15 fw0" color="#DEE2E5">Down Payment</mj-text>
@@ -76,7 +75,7 @@
         <mj-text padding="0" padding-bottom="18px" align="center" container-background-color="#327900" mj-class="T15 fw0" color="#DEE2E5">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" mj-class="bgTF">
+    <mj-section padding="0" mj-class="bgV+1">
       <mj-column padding="60px 8.333333%" padding-top="20px" width="100%">
         <mj-button width="70%">Register your interest</mj-button>
       </mj-column>
@@ -86,44 +85,44 @@
         <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-wrapper padding="0 8.333333%" background-color="#00412b">
+    <mj-wrapper padding="0 8.333333%" mj-class="bgV">
       <mj-section padding="28px 24px" background-color="#513b07">
         <mj-column width="55%" padding="0 10px">
-          <mj-text padding="0" mj-class="T16 cTW fw1" line-height="1.3">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
+          <mj-text padding="0" mj-class="T16 cTW0 fw1" line-height="1.3">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
         </mj-column>
         <mj-column width="45%" padding="0 10px">
-          <mj-text padding="0" mj-class="T16 cTW fw1" line-height="1.3">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
+          <mj-text padding="0" mj-class="T16 cTW0 fw1" line-height="1.3">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section padding="25px 0" background-color="#002b1c">
+      <mj-section padding="25px 0" mj-class="bgV+2">
         <mj-column>
-          <mj-text padding="0" align="center" mj-class="T16 fw1 lh cTW">10 Signature Amenties including</mj-text>
+          <mj-text padding="0" align="center" mj-class="T16 fw1 lh cTW0">10 Signature Amenties including</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#002b1c" padding="0">
+      <mj-section padding="0" mj-class="bgV+2">
         <mj-column padding="0 18px" padding-bottom="24px" width="33%">
           <mj-image padding="0" padding-bottom="12px" width="64px" src="images/diningLoung.png" alt=""/>
-          <mj-text padding="0" align="center" mj-class="T14 cTW lh fw0" text-transform="capitalize">districkt club & dining lounge</mj-text>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">districkt club & dining lounge</mj-text>
         </mj-column>
         <mj-column padding="0 18px" padding-bottom="24px" width="34%">
           <mj-image padding="0" padding-bottom="12px" width="64px" src="images/playZone.png" alt=""/>
-          <mj-text padding="0" align="center" mj-class="T14 cTW lh fw0" text-transform="capitalize">kids play zone</mj-text>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">kids play zone</mj-text>
         </mj-column>
         <mj-column padding="0 18px" padding-bottom="24px" width="33%">
           <mj-image padding="0" padding-bottom="12px" width="64px" src="images/wellness.png" alt=""/>
-          <mj-text padding="0" align="center" mj-class="T14 cTW lh fw0" text-transform="capitalize">distrikt wellness</mj-text>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">distrikt wellness</mj-text>
         </mj-column>
         <mj-column padding="0 18px" padding-bottom="24px" width="33%">
           <mj-image padding="0" padding-bottom="12px" width="64px" src="images/swimPool.png" alt=""/>
-          <mj-text padding="0" align="center" mj-class="T14 cTW lh fw0" text-transform="capitalize">main pool & shaded kids pool</mj-text>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">main pool & shaded kids pool</mj-text>
         </mj-column>
         <mj-column padding="0 18px" padding-bottom="24px" width="34%">
           <mj-image padding="0" padding-bottom="12px" width="64px" src="images/climbingWall.png" alt=""/>
-          <mj-text padding="0" align="center" mj-class="T14 cTW lh fw0" text-transform="capitalize">fitness studio & climbing wall</mj-text>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">fitness studio & climbing wall</mj-text>
         </mj-column>
         <mj-column padding="0 18px" padding-bottom="24px" width="33%">
           <mj-image padding="0" padding-bottom="12px" width="64px" src="images/coworking.png" alt=""/>
-          <mj-text padding="0" align="center" mj-class="T14 cTW lh fw0" text-transform="capitalize">co-working spaces</mj-text>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">co-working spaces</mj-text>
         </mj-column>
         <mj-column width="100%">
           <mj-image padding="0" width="500px" src="images/bandeauVert.png" alt=""/>
