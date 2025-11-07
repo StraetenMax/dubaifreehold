@@ -33,21 +33,24 @@
       <mj-class name="fw1" font-weight="600"/>
       <mj-class name="fw2" font-weight="700"/>
       <mj-class name="lh" line-height="1.2"/>
-      <mj-class name="cTW" color="#ffffff"/>
-      <mj-class name="cTVTF" color="#000000"/>
-      <mj-class name="cTB" color="#000000"/>
-      <mj-class name="bgTF" background-color="#073324"/>
-      <mj-class name="bgVC" background-color="#212121"/>
-      <mj-class name="bgB" background-color="#000000"/>
+      <mj-class name="cTW0" color="#ffffff"/>
+      <mj-class name="cTW+1" color="#EEF1F5"/>
+      <mj-class name="cTW+2" color="#DEE2E5"/>
+      <mj-class name="cTV-2" color="#b3c7b5"/>
+      <mj-class name="cTV-1" color="#327900"/>
+      <mj-class name="cTV" color="#00412b"/>
+      <mj-class name="bgV+1" background-color="#073324"/>
+      <mj-class name="bgV+2" background-color="#002b1c"/>
+      <mj-class name="bgM" background-color="#513b07"/>
       <mj-divider padding="0" border-style="solid" border-width="1px" border-color="#eeeeee"></mj-divider>
       <mj-button padding="0" inner-padding="14px 25px" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" background-color="#9a7800" letter-spacing="3.5px" text-transform="uppercase" border-radius="0"></mj-button>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#ffffff" width="600px">
-    <mj-section padding="0 20px" mj-class="bgTF">
+    <mj-section padding="0 20px" mj-class="bgV+1">
       <mj-column>
-        <mj-text padding="12px 0" align="center" mj-class="cTW fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
+        <mj-text padding="12px 0" align="center" mj-class="cTW0 fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" mj-class="bgTF">
@@ -135,32 +138,32 @@
       </mj-section>
     </mj-wrapper>
     <mj-section padding="0" padding-top="25px" background-color="#063323">
-      <mj-column background-color="#002b1c" padding="25px 40px" padding-bottom="15px">
-        <mj-text padding="0" align="center" mj-class="T24 fw2 lh cTW" text-transform="capitalize">location</mj-text>
+      <mj-column mj-class="bgV+2" padding="25px 40px" padding-bottom="15px">
+        <mj-text padding="0" align="center" mj-class="T24 fw2 lh cTW0" text-transform="capitalize">location</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0px 40px" background-color="#002b1c">
+    <mj-section padding="0px 40px" mj-class="bgV+2">
       <mj-column width="50%" padding="8px">
-        <mj-text padding="0" align="center" mj-class="T24 fw2 cTW" font-size="24px" text-transform="capitalize">15 mins</mj-text>
-        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh" color="#b3c7b5" text-transform="capitalize">tilal ai ghaf & dubai hills</mj-text>
+        <mj-text padding="0" align="center" mj-class="T24 fw2 cTW0" font-size="24px" text-transform="capitalize">15 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">tilal ai ghaf & dubai hills</mj-text>
       </mj-column>
       <mj-column width="50%" padding="8px">
-        <mj-text padding="0" align="center" mj-class="T24 fw2 cTW" text-transform="capitalize">20 mins</mj-text>
-        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh" color="#b3c7b5" text-transform="capitalize">dubai airport & mall of the emirates</mj-text>
+        <mj-text padding="0" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">20 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">dubai airport & mall of the emirates</mj-text>
       </mj-column>
       <mj-column width="50%" padding="8px">
-        <mj-text padding="0" padding-top="10px" align="center" mj-class="T24 fw2 cTW" text-transform="capitalize">25 mins</mj-text>
-        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh" color="#b3c7b5" text-transform="capitalize">dubai marina & palm jumeirah</mj-text>
+        <mj-text padding="0" padding-top="10px" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">25 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">dubai marina & palm jumeirah</mj-text>
       </mj-column>
       <mj-column width="50%" padding="8px">
-        <mj-text padding="0" padding-top="10px" align="center" mj-class="T24 fw2 cTW" text-transform="capitalize">5 mins</mj-text>
-        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh" color="#b3c7b5" text-transform="capitalize">shops, schools & wellness</mj-text>
+        <mj-text padding="0" padding-top="10px" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">5 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">shops, schools & wellness</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#002b1c" padding="25px 8.333333%">
+    <mj-section mj-class="bgV+2" padding="25px 8.333333%">
       <mj-column>
         <mj-button width="70%">Register your interest</mj-button>
-        <mj-text padding="0" padding-top="40px" align="center" mj-class="T13 fw1 cTW" line-height="15px" letter-spacing="1px">Copyright 2025. All rights reserved.</mj-text>
+        <mj-text padding="0" padding-top="40px" align="center" mj-class="T13 fw1 cTW0" line-height="15px" letter-spacing="1px">Copyright 2025. All rights reserved.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
