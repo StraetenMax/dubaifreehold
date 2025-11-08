@@ -1,0 +1,58 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Ghaf Woods
+        mj-font(name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap")/
+        mj-font(name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap")/
+        mj-raw.
+            <meta charset="UTF-8">
+            <meta name='color-scheme' content='light'/>
+            <meta name='supported-color-schemes' content='light'/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family="'Roboto', Arial, Helvetica, sans-serif")/
+            //- font-size / line-height
+            mj-class(name='T36' font-style="normal" font-size='36px')/
+            mj-class(name='T30' font-style="normal" font-size='30px')/
+            mj-class(name='T24' font-style="normal" font-size='24px')/
+            mj-class(name='T22' font-style="normal" font-size='22px')/
+            mj-class(name='T16' font-style="normal" font-size='16px')/
+            mj-class(name='T15' font-style="normal" font-size='15px')/
+            mj-class(name='T14' font-style="normal" font-size='14px')/
+            mj-class(name='T13' font-style="normal" font-size='13px')/
+            mj-class(name='T12' font-style="normal" font-size='12px')/
+            //- font-weight
+            mj-class(name="fw0" font-weight="400")/
+            mj-class(name="fw1" font-weight="600")/
+            mj-class(name="fw2" font-weight="700")/
+            //-line heigth
+            mj-class(name="lh" line-height="1.2")/
+            //- color
+            mj-class(name="cTW0" color="#ffffff")/
+            mj-class(name="cTW+1" color="#EEF1F5")/
+            mj-class(name="cTW+2" color="#DEE2E5")/
+            mj-class(name="cTV-2" color="#b3c7b5")/
+            mj-class(name="cbgV-1" container-background-color="#327900")/
+            mj-class(name="bgV" background-color="#00412b")/
+            mj-class(name="bgV+1" background-color="#073324")/
+            mj-class(name="bgV+2" background-color="#002b1c")/
+            //- compoments
+            mj-divider(padding="0" border-style="solid" border-width="1px" border-color="#eeeeee")
+            mj-button(padding="0" inner-padding="14px 25px" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" background-color="#9a7800" letter-spacing="3.5px" text-transform="uppercase" border-radius="0")
+        mj-breakpoint(width="480px")
+    //- Body
+    mj-body(background-color='#ffffff' width="600px")
+        //- content
+        block content
+        //- bloc header
+        block header
+            include ../includes/_header
+        //- bloc menu offre
+        block offre
+            include ../includes/_offre
+        //-bloc footer
+        block footer
+            include ../includes/_footer
