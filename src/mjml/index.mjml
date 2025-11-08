@@ -47,5 +47,63 @@
         <mj-text padding="12px 0" align="center" mj-class="cTW0 fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image src="images/logoProjet.png" alt=""/>
+        <mj-text>A new altitude in working life</mj-text>
+        <mj-text>31 Above is a new sculptural landmark in Dubai Maritime City. Every element, from its stacked geometry to its refined public interiors, has been crafted to enhance performance, wellbeing, and connectivity.</mj-text>
+        <mj-button>Register your interest</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/building.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>31 Above is a sculptural commercial landmark in Dubai Maritime City, designed to redefine modern working life through architecture rooted in balance, precision, and wellness. Rising in stacked volumes with landscaped terraces, the tower brings natural light, greenery, and perspective into every level, creating a workspace that inspires focus and connection.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="images/suiteBuilding.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button>Register your interest</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/vueCiel.png" alt=""/>
+      </mj-column>
+      <mj-column>
+        <mj-text>Location</mj-text>
+        <mj-text>20 min | Dubai international airport</mj-text>
+        <mj-text>15 min | Dubai mall</mj-text>
+        <mj-text>10 min | Nearest school</mj-text>
+        <mj-text>10 min | Jumeirah beach coastal line</mj-text>
+        <mj-text>05 min | Mina Rashid</mj-text>
+        <mj-text>10 min | Nearest hospital</mj-text>
+        <mj-text>15 min | The gold souk</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button>Register your interest</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/logoEntreprise.png" alt=""/>
+        <mj-text>Copyright 2025. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>You are subscribed to this email as contact@ecosup-sante.fr.</mj-text>
+        <mj-text>Click here to modify your preferences or unsubscribe.</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
