@@ -77,28 +77,30 @@
     </mj-section>
     <mj-section background-color="#000000">
       <mj-column>
-        <mj-image src="images/logoProjet.png" alt=""/>
+        <mj-image padding="0" width="91px" src="images/logoProjet.png" alt=""/>
         <mj-text>A new altitude in working life</mj-text>
         <mj-text>31 Above is a new sculptural landmark in Dubai Maritime City. Every element, from its stacked geometry to its refined public interiors, has been crafted to enhance performance, wellbeing, and connectivity.</mj-text>
-        <mj-button>Register your interest</mj-button>
+        <mj-button width="100%">Register your interest</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0" background-color="#241e10">
       <mj-column>
-        <mj-image src="images/building.png" alt=""/>
+        <mj-image padding="0" width="578px" src="images/building.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>31 Above is a sculptural commercial landmark in Dubai Maritime City, designed to redefine modern working life through architecture rooted in balance, precision, and wellness. Rising in stacked volumes with landscaped terraces, the tower brings natural light, greenery, and perspective into every level, creating a workspace that inspires focus and connection.</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image src="images/suiteBuilding.png" alt=""/>
-      </mj-column>
+    <mj-section padding="0" background-color="#241e10">
+      <mj-group>
+        <mj-column padding-top="40px" padding-left="50px" width="63%">
+          <mj-text padding="0" mj-class="T16 cTW0 fw0" line-height="22px">31 Above is a sculptural commercial landmark in Dubai Maritime City, designed to redefine modern working life through architecture rooted in balance, precision, and wellness. Rising in stacked volumes with landscaped terraces, the tower brings natural light, greenery, and perspective into every level, creating a workspace that inspires focus and connection.</mj-text>
+        </mj-column>
+        <mj-column width="37%">
+          <mj-image padding="0" align="right" width="220px" src="images/suiteBuilding.png" alt=""/>
+        </mj-column>
+      </mj-group>
     </mj-section>
-    <mj-section>
+    <mj-section padding="25px 50px" background-color="#241e10">
       <mj-column>
-        <mj-button>Register your interest</mj-button>
+        <mj-button width="100%">Register your interest</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
