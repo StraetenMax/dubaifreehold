@@ -75,11 +75,15 @@
         <mj-button width="70%">Register your interest</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#000000">
+    <mj-section background-color="#241e10">
       <mj-column>
         <mj-image padding="0" width="91px" src="images/logoProjet.png" alt=""/>
         <mj-text>A new altitude in working life</mj-text>
         <mj-text>31 Above is a new sculptural landmark in Dubai Maritime City. Every element, from its stacked geometry to its refined public interiors, has been crafted to enhance performance, wellbeing, and connectivity.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 50px" background-color="#241e10">
+      <mj-column>
         <mj-button width="100%">Register your interest</mj-button>
       </mj-column>
     </mj-section>
@@ -118,9 +122,9 @@
         <mj-text>15 min | The gold souk</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0 50px" background-color="#241e10">
       <mj-column>
-        <mj-button>Register your interest</mj-button>
+        <mj-button width="100%">Register your interest</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
