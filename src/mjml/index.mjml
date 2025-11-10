@@ -109,17 +109,19 @@
     </mj-section>
     <mj-section background-color="#241e10">
       <mj-column vertical-align="middle" width="46%">
-        <mj-image padding="0" align="left" src="images/vueCiel.png" alt=""/>
+        <mj-image padding="0" align="left" width="274px" src="images/vueCiel.png" alt=""/>
       </mj-column>
       <mj-column padding-left="20px" vertical-align="middle" width="54%">
+        <mj-spacer height="30px"></mj-spacer>
         <mj-text padding="0" padding-bottom="10px" mj-class="T24 fw2 cTW0">Location</mj-text>
-        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0">20 min | Dubai international airport</mj-text>
-        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0">15 min | Dubai mall</mj-text>
-        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0">10 min | Nearest school</mj-text>
-        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0">10 min | Jumeirah beach coastal line</mj-text>
-        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0">05 min | Mina Rashid</mj-text>
-        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0">10 min | Nearest hospital</mj-text>
+        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0"><span style="color:#9A7A56;font-weight:700">20 min |</span> Dubai international airport</mj-text>
+        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0"><span style="color:#9A7A56;font-weight:700">15 min |</span> Dubai mall</mj-text>
+        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0"><span style="color:#9A7A56;font-weight:700">10 min |</span> Nearest school</mj-text>
+        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0"><span style="color:#9A7A56;font-weight:700;">10 min |</span> Jumeirah beach coastal line</mj-text>
+        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0"><span style="color:#9A7A56;font-weight:700">05 min |</span> Mina Rashid</mj-text>
+        <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0"><span style="color:#9A7A56;font-weight:700;">10 min |</span> Nearest hospital</mj-text>
         <mj-text padding="0" padding-bottom="10px" mj-class="T16 fw0 cTW0"><span style="color:#9A7A56;font-weight:700">15 min |</span> The gold souk</mj-text>
+        <mj-spacer height="30px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" background-color="#241e10">
