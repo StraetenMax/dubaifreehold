@@ -32,7 +32,7 @@
       <mj-class name="cTW+1" color="#EEF1F5"/>
       <mj-class name="cTW+2" color="#DEE2E5"/>
       <mj-class name="cTV-2" color="#b3c7b5"/>
-      <mj-class name="cbgV-1" container-background-color="#327900"/>
+      <mj-class name="cbgV-1" container-background-color="#5A5656"/>
       <mj-class name="bgV" background-color="#00412b"/>
       <mj-class name="bgV+1" background-color="#073324"/>
       <mj-class name="bgV+2" background-color="#002b1c"/>
@@ -50,24 +50,24 @@
     <mj-section padding="0 50px" background-color="#241e10">
       <mj-column>
         <mj-divider padding-top="19px"></mj-divider>
-        <mj-text padding="0" padding-top="12px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW0" letter-spacing="2px">Own a Forest-Living</mj-text>
+        <mj-text padding="0" padding-top="12px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW0" letter-spacing="2px">Own a Beachfront Office</mj-text>
         <mj-text padding="0" padding-bottom="15px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW0" letter-spacing="2px">Property in Dubai</mj-text>
         <mj-divider></mj-divider>
-        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 fw0 lh cTW0">Ghaf Woods by Majid AI Futtaim</mj-text>
+        <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 fw0 lh cTW0">31 <span style="text-transform:uppercase">above</span> - <span style="text-transform:capitalize">dubai maritime</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="5px 46px" background-color="#241e10">
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">5<span style="font-size:26px;font-weight:400">%</span></mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2">Down Payment</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">116</mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">office units </mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">0<span style="font-size:26px;font-weight:400">%</span></mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2">Interest</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">10<span style="font-size:26px;font-weight:400">%</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">rental</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">7<span style="font-size:26px;font-weight:400">years</span></mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2">Payment Plan</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">50-50</mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">payment plan</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0" background-color="#241e10">
