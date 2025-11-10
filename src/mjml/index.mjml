@@ -75,11 +75,11 @@
         <mj-button width="70%">Register your interest</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#241e10">
+    <mj-section padding="0 50px" background-color="#241e10">
       <mj-column>
         <mj-image padding="0" width="91px" src="images/logoProjet.png" alt=""/>
-        <mj-text padding="0" align="center" mj-class="cTW0">A new altitude in working life</mj-text>
-        <mj-text padding="0" align="center" mj-class="T16 cTW0 fw0" line-height="22px">31 Above is a new sculptural landmark in Dubai Maritime City. Every element, from its stacked geometry to its refined public interiors, has been crafted to enhance performance, wellbeing, and connectivity.</mj-text>
+        <mj-text padding="0 75px" padding-bottom="10px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T36 cTW0 fw0" line-height="40px" text-transform="uppercase">A new altitude in working life</mj-text>
+        <mj-text padding="0 66.5px" align="center" mj-class="T16 cTW0 fw0" line-height="22px">31 Above is a new sculptural landmark in Dubai Maritime City. Every element, from its stacked geometry to its refined public interiors, has been crafted to enhance performance, wellbeing, and connectivity.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" background-color="#241e10">
