@@ -104,11 +104,11 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0" background-color="#241e10">
-      <mj-column padding="0 50px" padding-top="40px" width="63%">
+      <mj-column padding="0 50px" padding-top="40px" width="72%">
         <mj-text css-class="center" padding="0" mj-class="T16 cTW0 fw0" line-height="22px">31 Above is a sculptural commercial landmark in Dubai Maritime City, designed to redefine modern working life through architecture rooted in balance, precision, and wellness. Rising in stacked volumes with landscaped terraces, the tower brings natural light, greenery, and perspective into every level, creating a workspace that inspires focus and connection.</mj-text>
       </mj-column>
-      <mj-column width="37%">
-        <mj-image padding="0" align="right" width="220px" src="images/suiteBuilding.png" alt="" css-class="desktop-only"/>
+      <mj-column width="28%">
+        <mj-image padding="0" align="right" width="220px" src="images/suiteCorrigee.png" alt="" css-class="desktop-only"/>
       </mj-column>
     </mj-section>
     <mj-section padding="25px 50px" background-color="#241e10">
