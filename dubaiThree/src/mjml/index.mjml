@@ -16,6 +16,7 @@
     <mj-attributes>
       <mj-all font-family="'Roboto', Arial, Helvetica, sans-serif"/>
       <mj-class name="T60" font-style="normal" font-size="60px"/>
+      <mj-class name="T50" font-style="normal" font-size="50px"/>
       <mj-class name="T36" font-style="normal" font-size="36px"/>
       <mj-class name="T30" font-style="normal" font-size="30px"/>
       <mj-class name="T24" font-style="normal" font-size="24px"/>
@@ -116,26 +117,27 @@
         <mj-image padding="0" width="600px" src="images/petitImmo2.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>Amenities & services</mj-text>
-        <mj-text>Library, study area and meeting rooms</mj-text>
-        <mj-text>Games room, indoor and outdoor cinemas</mj-text>
-        <mj-text>Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
-        <mj-text>Saunas, ice baths and therapy chambers</mj-text>
-        <mj-text>25m pool, jacuzzis, infinity pool and experiental showers</mj-text>
-        <mj-text>24/7 concierge, a la carte services and exclusive owners' community</mj-text>
-        <mj-text>Overlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters, and Ain dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
+    <mj-section padding="0 30px" background-color="#ffffff">
+      <mj-column padding="0 30px" background-color="#eaeaea">
+        <mj-text padding="0" align="center" mj-class="T50 fw0" color="#000000" line-height="58px">Amenities & services</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">Library, study area and meeting rooms</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">Games room, indoor and outdoor cinemas</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">Swimming pool, indoor and outdoor</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">Saunas, ice baths and therapy chambers</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">25m pool, jacuzzis, infinity pool and experiental showers</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">24/7 concierge, a la carte services and exclusive owners' community</mj-text>
+        <mj-text padding="0" mj-class="T16 fw0" color="#000000" line-height="24px">Overlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters, and Ain dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column>
-        <mj-image src="images/logoSelectGroup.png" alt=""/>
+        <mj-image padding="0" width="600px" src="images/logoSelectGroup.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0 30px" background-color="#ffffff">
       <mj-column>
-        <mj-button>Enquire now</mj-button>
+        <mj-button width="100%">Enquire now</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
