@@ -107,5 +107,34 @@
         <mj-button>enquire now</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/grandImmo.jpg" alt=""/>
+        <mj-image src="images/petitImmo1.jpg" alt=""/>
+        <mj-image src="images/petitImmo2.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Amenities & services</mj-text>
+        <mj-text>Library, study area and meeting rooms</mj-text>
+        <mj-text>Games room, indoor and outdoor cinemas</mj-text>
+        <mj-text>Gymnasiums, fitness studios, yoga deck, pilates studio</mj-text>
+        <mj-text>Saunas, ice baths and therapy chambers</mj-text>
+        <mj-text>25m pool, jacuzzis, infinity pool and experiental showers</mj-text>
+        <mj-text>24/7 concierge, a la carte services and exclusive owners' community</mj-text>
+        <mj-text>Overlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters, and Ain dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/logoSelectGroup.png" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button>Enquire now</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
