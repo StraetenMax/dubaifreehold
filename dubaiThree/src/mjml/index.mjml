@@ -136,5 +136,16 @@
         <mj-button>Enquire now</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Reach people direct, dubai, uae.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>You are subscribed to this email as contact@ecosup-sante.fr.</mj-text>
+        <mj-text>Click here to modify your preferences or unsubscribe.</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
