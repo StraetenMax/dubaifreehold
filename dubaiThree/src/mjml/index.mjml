@@ -15,9 +15,9 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="'Roboto', Arial, Helvetica, sans-serif"/>
-      <mj-class name="T60" font-style="normal" font-size="60px"/>
-      <mj-class name="T36" font-style="normal" font-size="36px"/>
-      <mj-class name="T18" font-style="normal" font-size="18px"/>
+      <mj-class name="T60" font-style="normal" font-size="60px" line-height="68px"/>
+      <mj-class name="T36" font-style="normal" font-size="36px" line-height="46px"/>
+      <mj-class name="T18" font-style="normal" font-size="18px" line-height="24px"/>
       <mj-class name="T16" font-style="normal" font-size="16px" line-height="24px"/>
       <mj-class name="T12" font-style="normal" font-size="12px" line-height="18px"/>
       <mj-class name="fw0" font-weight="400"/>
@@ -31,9 +31,8 @@
       <mj-class name="cTV-2" color="#b3c7b5"/>
       <mj-class name="cTB" color="#000000"></mj-class>
       <mj-class name="cbgV-1" container-background-color="#5A5656"/>
-      <mj-class name="bgV" background-color="#00412b"/>
-      <mj-class name="bgV+1" background-color="#073324"/>
-      <mj-class name="bgV+2" background-color="#002b1c"/>
+      <mj-class name="bgFsombre" background-color="#212121"/>
+      <mj-class name="bgFclair" background-color="#eaeaea"/>
       <mj-divider padding="0" border-style="solid" border-width="1px" border-color="#eeeeee"></mj-divider>
       <mj-button padding="0" inner-padding="14px 25px" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" background-color="#9a7800" letter-spacing="3.5px" text-transform="uppercase" border-radius="0"></mj-button>
     </mj-attributes>
@@ -59,12 +58,12 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#ffffff" width="600px">
-    <mj-section padding="0 20px" background-color="#241e10">
+    <mj-section padding="0 20px" mj-class="bgFsombre">
       <mj-column>
         <mj-text padding="12px 0" align="center" mj-class="cTW0 fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 50px" background-color="#241e10">
+    <mj-section padding="0 50px" mj-class="bgFsombre">
       <mj-column>
         <mj-divider padding-top="19px"></mj-divider>
         <mj-text padding="0" padding-top="12px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW0" letter-spacing="2px">Own a Beachfront</mj-text>
@@ -73,7 +72,7 @@
         <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 fw0 lh cTW0" text-transform="capitalize">six senses residences - dubai&nbsp;marina</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="5px 46px" background-color="#241e10">
+    <mj-section padding="5px 46px" mj-class="bgFsombre">
       <mj-column padding="4px" width="33.333333%">
         <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">122</mj-text>
         <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">storey tower </mj-text>
@@ -87,7 +86,7 @@
         <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">payment plan</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" background-color="#241e10">
+    <mj-section padding="0" mj-class="bgFsombre">
       <mj-column padding="60px 8.333333%" padding-top="20px" width="100%">
         <mj-button width="70%">Register your interest</mj-button>
       </mj-column>
@@ -99,7 +98,7 @@
     </mj-section>
     <mj-section padding="0 30px" background-color="#ffffff">
       <mj-column background-color="#212121" padding="0 40px">
-        <mj-text padding="35px 0" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T60 fw0 cTW0" line-height="68px">Enjoy a lifestyle like no other</mj-text>
+        <mj-text padding="35px 0" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T60 fw0 cTW0">Enjoy a lifestyle like no other</mj-text>
         <mj-divider width="80px"></mj-divider>
         <mj-text padding="35px 0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0">Introducing six senses residences dubai marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
         <mj-text padding="0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0">Ouverlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters, and ain dubai, owners can enjoy a lifestyle like no other with a range of first-class amenties and services.</mj-text>
@@ -114,8 +113,8 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0 30px" background-color="#ffffff">
-      <mj-column padding="0 30px" background-color="#eaeaea">
-        <mj-text padding="0" padding-top="35px" padding-bottom="20px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T36 fw0 cTB" line-height="46px">Amenities & services</mj-text>
+      <mj-column padding="0 30px" mj-class="bgFclair">
+        <mj-text padding="0" padding-top="35px" padding-bottom="20px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T36 fw0 cTB">Amenities & services</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Library, study area and meeting rooms</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Games room, indoor and outdoor cinemas</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Swimming pool, indoor and outdoor</mj-text>
@@ -137,8 +136,8 @@
       </mj-column>
     </mj-section>
     <mj-section padding="41px 0">
-      <mj-column background-color="#eaeaea">
-        <mj-text padding="0" padding-top="35px" padding-bottom="5px" align="center" mj-class="T18 fw0 cTB" line-height="24px" text-transform="Capitalize">Reach people direct, dubai, <span style="text-transform:uppercase">uae</span>.</mj-text>
+      <mj-column mj-class="bgFclair">
+        <mj-text padding="0" padding-top="35px" padding-bottom="5px" align="center" mj-class="T18 fw0 cTB" text-transform="Capitalize">Reach people direct, dubai, <span style="text-transform:uppercase">uae</span>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
