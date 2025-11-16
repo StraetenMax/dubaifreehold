@@ -21,6 +21,7 @@
       <mj-class name="T30" font-style="normal" font-size="30px"/>
       <mj-class name="T24" font-style="normal" font-size="24px"/>
       <mj-class name="T22" font-style="normal" font-size="22px"/>
+      <mj-class name="T18" font-style="normal" font-size="18px"/>
       <mj-class name="T16" font-style="normal" font-size="16px"/>
       <mj-class name="T15" font-style="normal" font-size="15px"/>
       <mj-class name="T14" font-style="normal" font-size="14px"/>
@@ -140,15 +141,15 @@
         <mj-button width="100%">Enquire now</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>Reach people direct, dubai, uae.</mj-text>
+    <mj-section padding="41px 0">
+      <mj-column background-color="#eaeaea">
+        <mj-text padding="0" padding-top="35px" padding-bottom="5px" align="center" mj-class="T18 fw0" color="#000000" line-height="24px" text-transform="Capitalize">Reach people direct, dubai, <span style="text-transform:uppercase">uae</span>.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0">
       <mj-column>
-        <mj-text>You are subscribed to this email as contact@ecosup-sante.fr.</mj-text>
-        <mj-text>Click here to modify your preferences or unsubscribe.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12 fw0" color="#666666" line-height="18px">You are subscribed to this email as contact@ecosup-sante.fr.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T12 fw0" color="#666666" line-height="18px">Click here to modify your <a style="color:#666666;" href="#">preferences</a> or <a style="color:#666666;" href="#">unsubscribe</a>.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
