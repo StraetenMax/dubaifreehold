@@ -33,7 +33,6 @@
       <mj-class name="cTW+1" color="#EEF1F5"/>
       <mj-class name="cTW+2" color="#DEE2E5"/>
       <mj-class name="cTW+3" color="#666666"></mj-class>
-      <mj-class name="cTV-2" color="#b3c7b5"/>
       <mj-class name="cTB" color="#000000"></mj-class>
       <mj-class name="cbgV-1" container-background-color="#5A5656"/>
       <mj-class name="bgFsombre" background-color="#212121"/>
@@ -44,6 +43,10 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
     <mj-style>
       @media only screen and (max-width:480px) {
+      .titleMobile div{
+          font-size: 40px !important;
+          line-height: 48px !important;
+      }
       .desktop-only td {
           display: none !important;
           mso-hide: all !important; /* Outlook */
@@ -101,9 +104,9 @@
         <mj-image padding="0" width="600px" src="images/dubai.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 30px" background-color="#ffffff">
+    <mj-section padding="0 5%" background-color="#ffffff">
       <mj-column background-color="#212121" padding="0 40px">
-        <mj-text padding="35px 0" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T60 fw0 cTW0">Enjoy a lifestyle like no other</mj-text>
+        <mj-text padding="35px 0" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T60 fw0 cTW0" css-class="titleMobile" text-transform="Capitalize">Enjoy a lifestyle like no other</mj-text>
         <mj-divider width="80px"></mj-divider>
         <mj-text padding="35px 0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0">Introducing six senses residences dubai marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
         <mj-text padding="0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0">Ouverlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters, and ain dubai, owners can enjoy a lifestyle like no other with a range of first-class amenties and services.</mj-text>
@@ -117,9 +120,9 @@
         <mj-image padding="0" width="600px" src="images/petitImmo2.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 30px" background-color="#ffffff">
+    <mj-section padding="0 5%" background-color="#ffffff">
       <mj-column padding="0 30px" mj-class="bgFclair">
-        <mj-text padding="0" padding-top="35px" padding-bottom="20px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T36 fw0 cTB">Amenities & services</mj-text>
+        <mj-text padding="0" padding-top="35px" padding-bottom="20px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T36 fw0 cTB" text-transform="Capitalize">Amenities & services</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Library, study area and meeting rooms</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Games room, indoor and outdoor cinemas</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Swimming pool, indoor and outdoor</mj-text>
