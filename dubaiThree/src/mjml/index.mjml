@@ -53,7 +53,7 @@
   <mj-body background-color="#ffffff" width="600px">
     <mj-section padding="0 20px" mj-class="bgFsombre">
       <mj-column>
-        <mj-text padding="12px 0" align="center" mj-class="cTW0 fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
+        <mj-text padding="12px 0" align="center" mj-class="cTW0 fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click&nbsp;here&nbsp;to&nbsp;view&nbsp;it&nbsp;in&nbsp;your&nbsp;browser</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 50px" mj-class="bgFsombre">
@@ -90,11 +90,11 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0 5%" background-color="#ffffff">
-      <mj-column background-color="#212121" padding="0 40px">
-        <mj-text padding="35px 0" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T60 fw0 cTW0" css-class="titleMobile" text-transform="Capitalize">Enjoy a lifestyle like no other</mj-text>
+      <mj-column padding="0 40px" mj-class="bgFsombre">
+        <mj-text padding="35px 0" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T60 fw0 cTW0" css-class="titleMobile" text-transform="capitalize">Enjoy a lifestyle like no other</mj-text>
         <mj-divider width="80px"></mj-divider>
         <mj-text padding="35px 0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0">Introducing six senses residences dubai marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
-        <mj-text padding="0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0">Ouverlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters, and ain dubai, owners can enjoy a lifestyle like no other with a range of first-class amenties and services.</mj-text>
+        <mj-text padding="0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0"><span style="text-transform:capitalize;">Overlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters,</span> and <span style="text-transform:capitalize;">ain dubai</span>, owners can enjoy a lifestyle like no other with a range of first-class amenties and services.</mj-text>
         <mj-button padding-top="32px" padding-bottom="41px" width="100%">enquire now</mj-button>
       </mj-column>
     </mj-section>
@@ -107,7 +107,7 @@
     </mj-section>
     <mj-section padding="0 5%" background-color="#ffffff">
       <mj-column padding="0 30px" mj-class="bgFclair">
-        <mj-text padding="0" padding-top="35px" padding-bottom="20px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T36 fw0 cTB" text-transform="Capitalize">Amenities & services</mj-text>
+        <mj-text padding="0" padding-top="35px" padding-bottom="20px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T36 fw0 cTB" text-transform="capitalize">Amenities & services</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Library, study area and meeting rooms</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Games room, indoor and outdoor cinemas</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Swimming pool, indoor and outdoor</mj-text>
@@ -115,7 +115,7 @@
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;Saunas, ice baths and therapy chambers</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;25m pool, jacuzzis, infinity pool and experiental showers</mj-text>
         <mj-text padding="0" padding-top="5px" mj-class="T16 fw0 cTB">&#11044;&nbsp;&nbsp;24/7 concierge, a la carte services and exclusive owners' community</mj-text>
-        <mj-text padding="0" padding-top="35px" padding-bottom="55px" mj-class="T16 fw0 cTB">Overlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters, and Ain dubai, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
+        <mj-text padding="0" padding-top="35px" padding-bottom="55px" mj-class="T16 fw0 cTB"><span style="text-transform:capitalize">Overlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters,</span> and <span style="text-transform:capitalize">ain dubai</span>, owners can enjoy a lifestyle like no other with a range of first-class amenities and services.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -123,7 +123,7 @@
         <mj-image padding="0" width="600px" src="images/logoSelectGroup.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 30px" background-color="#ffffff">
+    <mj-section padding="0 5%" background-color="#ffffff">
       <mj-column>
         <mj-button width="100%">Enquire now</mj-button>
       </mj-column>
