@@ -14,11 +14,11 @@ mjml
             <meta name="format-detection" content="email=no"/>
         mj-attributes
             mj-all(font-family="'Roboto', Arial, Helvetica, sans-serif")/
-            mj-class(name="T36" font-style="normal" font-size="36px")/
-            mj-class(name="T30" font-style="normal" font-size="30px")/
-            mj-class(name="T22" font-style="normal" font-size="22px")/
-            mj-class(name="T15" font-style="normal" font-size="15px")/
-            mj-class(name="T14" font-style="normal" font-size="14px")/
+            mj-class(name='T36' font-style="normal" font-size="36px")/
+            mj-class(name='T30' font-style="normal" font-size="30px")/
+            mj-class(name='T22' font-style="normal" font-size="22px")/
+            mj-class(name='T15' font-style="normal" font-size="15px")/
+            mj-class(name='T14' font-style="normal" font-size="14px")/
             //- font-size / line-height
             mj-class(name='T60' font-style="normal" font-size='60px' line-height="68px")/
             mj-class(name='T36' font-style="normal" font-size='36px' line-height="46px")/
@@ -45,11 +45,22 @@ mjml
             mj-button(padding="0" inner-padding="14px 25px" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" background-color="#9a7800" letter-spacing="3.5px" text-transform="uppercase" border-radius="0")
         mj-breakpoint(width="480px")
         mj-style.   
-            @media only screen and (max-width:400px) {
-            .titleMobile div{
-                font-size: 40px !important;
-                line-height: 48px !important;
+            @media only screen and (max-width:480px) {
+            .desktop-only td {
+                display: none !important;
+                mso-hide: all !important; /* Outlook */
                 }
+            .center div{
+                text-align: center !important;
+            }
+            .padding div{
+                padding-left: 30px !important;
+                padding-right: 50px !important;
+            }
+            .form td{
+                padding-left: 11px !important;
+                padding-right: 11px !important;
+            }
             }
     //- Body
     mj-body(background-color='#ffffff' width="600px")
