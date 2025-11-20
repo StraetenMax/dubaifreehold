@@ -34,7 +34,7 @@
       <mj-class name="cTW+2" color="#DEE2E5"/>
       <mj-class name="cTW+3" color="#666666"></mj-class>
       <mj-class name="cTB" color="#000000"></mj-class>
-      <mj-class name="cbgV-1" container-background-color="#5A5656"/>
+      <mj-class name="cbgContainer" container-background-color="#5A5656"/>
       <mj-class name="bgFsombre" background-color="#212121"/>
       <mj-class name="bgFclair" background-color="#eaeaea"/>
       <mj-divider padding="0" border-style="solid" border-width="1px" border-color="#eeeeee"></mj-divider>
@@ -78,16 +78,16 @@
     </mj-section>
     <mj-section padding="5px 46px" mj-class="bgFsombre">
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">122</mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">storey tower </mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgContainer cTW+1">122</mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2" text-transform="capitalize">storey tower </mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">10<span style="font-size:26px;font-weight:400">%</span></mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">rental</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgContainer cTW+1">10<span style="font-size:26px;font-weight:400">%</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2" text-transform="capitalize">rental</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">20-80</mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2" text-transform="capitalize">payment plan</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgContainer cTW+1">20-80</mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2" text-transform="capitalize">payment plan</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgFsombre">
@@ -96,19 +96,61 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0">
-      <mj-column>
-        <mj-image padding="0" width="600px" src="images/dubai.jpg" alt=""/>
+      <mj-column width="100%">
+        <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 5%" background-color="#ffffff">
-      <mj-column padding="0 40px" mj-class="bgFsombre">
-        <mj-text padding="35px 0" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T60 fw0 cTW0" css-class="titleMobile" text-transform="capitalize">Enjoy a lifestyle like no other</mj-text>
-        <mj-divider width="80px"></mj-divider>
-        <mj-text padding="35px 0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0">Introducing six senses residences dubai marina, a 122-storey tower that is the ultimate residential destination in one of the world's most desirable locations.</mj-text>
-        <mj-text padding="0" padding-bottom="15px" align="center" mj-class="T16 fw0 cTW0"><span style="text-transform:capitalize;">Overlooking palm jumeirah, dubai harbour beachfront, emirates golf course, dubai marina, blue waters,</span> and <span style="text-transform:capitalize;">ain dubai</span>, owners can enjoy a lifestyle like no other with a range of first-class amenties and services.</mj-text>
-        <mj-button padding-top="32px" padding-bottom="41px" width="100%">enquire now</mj-button>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper padding="0 8.333333%" mj-class="bgV">
+      <mj-section padding="28px 24px" background-color="#513b07">
+        <mj-column width="55%" padding="0 10px">
+          <mj-text padding="0" mj-class="T16 cTW0 fw1" line-height="1.3">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
+        </mj-column>
+        <mj-column width="45%" padding="0 10px">
+          <mj-text padding="0" mj-class="T16 cTW0 fw1" line-height="1.3">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="25px 0" mj-class="bgV+2">
+        <mj-column>
+          <mj-text padding="0" align="center" mj-class="T16 fw1 lh cTW0">10 Signature Amenties including</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" mj-class="bgV+2">
+        <mj-column padding="0 18px" padding-bottom="24px" width="33%">
+          <mj-image padding="0" padding-bottom="12px" width="64px" src="images/diningLoung.png" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">districkt club & dining lounge</mj-text>
+        </mj-column>
+        <mj-column padding="0 18px" padding-bottom="24px" width="34%">
+          <mj-image padding="0" padding-bottom="12px" width="64px" src="images/playZone.png" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">kids play zone</mj-text>
+        </mj-column>
+        <mj-column padding="0 18px" padding-bottom="24px" width="33%">
+          <mj-image padding="0" padding-bottom="12px" width="64px" src="images/wellness.png" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">distrikt wellness</mj-text>
+        </mj-column>
+        <mj-column padding="0 18px" padding-bottom="24px" width="33%">
+          <mj-image padding="0" padding-bottom="12px" width="64px" src="images/swimPool.png" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">main pool & shaded kids pool</mj-text>
+        </mj-column>
+        <mj-column padding="0 18px" padding-bottom="24px" width="34%">
+          <mj-image padding="0" padding-bottom="12px" width="64px" src="images/climbingWall.png" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">fitness studio & climbing wall</mj-text>
+        </mj-column>
+        <mj-column padding="0 18px" padding-bottom="24px" width="33%">
+          <mj-image padding="0" padding-bottom="12px" width="64px" src="images/coworking.png" alt=""/>
+          <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">co-working spaces</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image padding="0" width="500px" src="images/bandeauVert.png" alt=""/>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" padding-top="20px">
+        <mj-column>
+          <mj-image padding="0" width="500px" src="images/interieur.png" alt=""/>
+          <mj-spacer height="18px"></mj-spacer>
+          <mj-button width="100%">Register your interest</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
     <mj-section padding="0">
       <mj-column>
         <mj-image padding="0" width="600px" src="images/grandImmo.jpg" alt=""/>
@@ -139,15 +181,39 @@
         <mj-button width="100%">Enquire now</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section padding="41px 0">
-      <mj-column mj-class="bgFclair">
-        <mj-text padding="0" padding-top="35px" padding-bottom="5px" align="center" mj-class="T18 fw0 cTB" text-transform="Capitalize">Reach people direct, dubai, <span style="text-transform:uppercase">uae</span>.</mj-text>
+    <mj-section padding="0" padding-top="25px" background-color="#063323">
+      <mj-column mj-class="bgV+2" padding="25px 40px" padding-bottom="15px">
+        <mj-text padding="0" align="center" mj-class="T24 fw2 lh cTW0" text-transform="capitalize">location</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
+    <mj-section padding="0px 40px" mj-class="bgV+2">
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">15 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">tilal ai ghaf & dubai hills</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">20 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">dubai airport & mall of the emirates</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" padding-top="10px" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">25 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">dubai marina & palm jumeirah</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" padding-top="10px" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">5 mins</mj-text>
+        <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">shops, schools & wellness</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgV+2" padding="25px 8.333333%">
       <mj-column>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" mj-class="T12 fw0 cTW+3">You are subscribed to this email as contact@ecosup-sante.fr.</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" mj-class="T12 fw0 cTW+3">Click here to modify your <a style="color:#666666;" href="#">preferences</a> or <a style="color:#666666;" href="#">unsubscribe</a>.</mj-text>
+        <mj-button width="70%">Register your interest</mj-button>
+        <mj-text padding="0" padding-top="40px" align="center" mj-class="T13 fw1 cTW0" line-height="15px" letter-spacing="1px">Copyright 2025. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" mj-class="T12 fw0" line-height="18px" color="#666666">You are subscribed to this email as contact@ecosup-sante.fr</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" mj-class="T12 fw0" line-height="18px" color="#666666">Click here to modify your <a style="color:#666666" href="#">preferences</a> or <a style="color:#666666" href="#">unsubscribe</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
