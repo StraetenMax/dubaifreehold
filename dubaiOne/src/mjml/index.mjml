@@ -33,21 +33,21 @@
       <mj-class name="cTW+2" color="#DEE2E5"/>
       <mj-class name="cTV-2" color="#b3c7b5"/>
       <mj-class name="cbgContainer" container-background-color="#327900"/>
-      <mj-class name="bgV" background-color="#00412b"/>
-      <mj-class name="bgV+1" background-color="#073324"/>
-      <mj-class name="bgV+2" background-color="#002b1c"/>
+      <mj-class name="bg0" background-color="#00412b"/>
+      <mj-class name="bg1" background-color="#073324"/>
+      <mj-class name="bg2" background-color="#002b1c"/>
       <mj-divider padding="0" border-style="solid" border-width="1px" border-color="#eeeeee"></mj-divider>
       <mj-button padding="0" inner-padding="14px 25px" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" background-color="#9a7800" letter-spacing="3.5px" text-transform="uppercase" border-radius="0"></mj-button>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#ffffff" width="600px">
-    <mj-section padding="0 20px" mj-class="bgV+1">
+    <mj-section padding="0 20px" mj-class="bg1">
       <mj-column>
         <mj-text padding="12px 0" align="center" mj-class="cTW0 fw0" font-size="14px" line-height="20px">Having trouble seeing the below email? <a style="color:#ffffff" href="#">Click here to view it in your browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 50px" mj-class="bgV+1">
+    <mj-section padding="0 50px" mj-class="bg1">
       <mj-column>
         <mj-divider padding-top="19px"></mj-divider>
         <mj-text padding="0" padding-top="12px" align="center" font-family="'Montserrat', Arial, Helvetica, sans-serif" mj-class="T30 fw1 lh cTW0" letter-spacing="2px">Own a Forest-Living</mj-text>
@@ -56,7 +56,7 @@
         <mj-text padding="0" padding-top="18px" padding-bottom="25px" align="center" mj-class="T22 fw0 lh cTW0">Ghaf Woods by Majid AI Futtaim</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="5px 46px" mj-class="bgV+1">
+    <mj-section padding="5px 46px" mj-class="bg1">
       <mj-column padding="4px" width="33.333333%">
         <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgContainer cTW+1">5<span style="font-size:26px;font-weight:400">%</span></mj-text>
         <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2">Down Payment</mj-text>
@@ -70,7 +70,7 @@
         <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" mj-class="bgV+1">
+    <mj-section padding="0" mj-class="bg1">
       <mj-column padding="60px 8.333333%" padding-top="20px" width="100%">
         <mj-button width="70%">Register your interest</mj-button>
       </mj-column>
@@ -80,7 +80,7 @@
         <mj-image padding="0" width="600px" src="images/exterieur.png" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-wrapper padding="0 8.333333%" mj-class="bgV">
+    <mj-wrapper padding="0 8.333333%" mj-class="bg0">
       <mj-section padding="28px 24px" background-color="#513b07">
         <mj-column width="55%" padding="0 10px">
           <mj-text padding="0" mj-class="T16 cTW0 fw1" line-height="1.3">A forest at the heart of the city, surrounded by lush greenery and walking trails</mj-text>
@@ -89,12 +89,12 @@
           <mj-text padding="0" mj-class="T16 cTW0 fw1" line-height="1.3">Over 30,000 sq. ft. of retail, dining, and leisure spaces.</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section padding="25px 0" mj-class="bgV+2">
+      <mj-section padding="25px 0" mj-class="bg2">
         <mj-column>
           <mj-text padding="0" align="center" mj-class="T16 fw1 lh cTW0">10 Signature Amenties including</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section padding="0" mj-class="bgV+2">
+      <mj-section padding="0" mj-class="bg2">
         <mj-column padding="0 18px" padding-bottom="24px" width="33%">
           <mj-image padding="0" padding-bottom="12px" width="64px" src="images/diningLoung.png" alt=""/>
           <mj-text padding="0" align="center" mj-class="T14 cTW0 lh fw0" text-transform="capitalize">districkt club & dining lounge</mj-text>
@@ -132,11 +132,11 @@
       </mj-section>
     </mj-wrapper>
     <mj-section padding="0" padding-top="25px" background-color="#063323">
-      <mj-column mj-class="bgV+2" padding="25px 40px" padding-bottom="15px">
+      <mj-column mj-class="bg2" padding="25px 40px" padding-bottom="15px">
         <mj-text padding="0" align="center" mj-class="T24 fw2 lh cTW0" text-transform="capitalize">location</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0px 40px" mj-class="bgV+2">
+    <mj-section padding="0px 40px" mj-class="bg2">
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="center" mj-class="T24 fw2 cTW0" text-transform="capitalize">15 mins</mj-text>
         <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">tilal ai ghaf & dubai hills</mj-text>
@@ -154,7 +154,7 @@
         <mj-text padding="0" padding-top="20px" padding-bottom="35px" align="center" mj-class="T15 fw0 lh cTV-2" text-transform="capitalize">shops, schools & wellness</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgV+2" padding="25px 8.333333%">
+    <mj-section padding="25px 8.333333%" mj-class="bg2">
       <mj-column>
         <mj-button width="70%">Register your interest</mj-button>
         <mj-text padding="0" padding-top="40px" align="center" mj-class="T13 fw1 cTW0" line-height="15px" letter-spacing="1px">Copyright 2025. All rights reserved.</mj-text>
