@@ -32,7 +32,7 @@
       <mj-class name="cTW+1" color="#EEF1F5"/>
       <mj-class name="cTW+2" color="#DEE2E5"/>
       <mj-class name="cTV-2" color="#b3c7b5"/>
-      <mj-class name="cbgV-1" container-background-color="#327900"/>
+      <mj-class name="cbgContainer" container-background-color="#327900"/>
       <mj-class name="bgV" background-color="#00412b"/>
       <mj-class name="bgV+1" background-color="#073324"/>
       <mj-class name="bgV+2" background-color="#002b1c"/>
@@ -58,16 +58,16 @@
     </mj-section>
     <mj-section padding="5px 46px" mj-class="bgV+1">
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">5<span style="font-size:26px;font-weight:400">%</span></mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2">Down Payment</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgContainer cTW+1">5<span style="font-size:26px;font-weight:400">%</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2">Down Payment</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">0<span style="font-size:26px;font-weight:400">%</span></mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2">Interest</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgContainer cTW+1">0<span style="font-size:26px;font-weight:400">%</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2">Interest</mj-text>
       </mj-column>
       <mj-column padding="4px" width="33.333333%">
-        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgV-1 cTW+1">7<span style="font-size:26px;font-weight:400">years</span></mj-text>
-        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgV-1 cTW+2">Payment Plan</mj-text>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36 fw2 cbgContainer cTW+1">7<span style="font-size:26px;font-weight:400">years</span></mj-text>
+        <mj-text padding="0" padding-bottom="18px" align="center" mj-class="T15 fw0 cbgContainer cTW+2">Payment Plan</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgV+1">

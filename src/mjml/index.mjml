@@ -37,6 +37,9 @@
       <mj-class name="cbgContainer" container-background-color="#5A5656"/>
       <mj-class name="bgFsombre" background-color="#212121"/>
       <mj-class name="bgFclair" background-color="#eaeaea"/>
+      <mj-class name="bgV" background-color="#00412b"/>
+      <mj-class name="bgV+1" background-color="#073324"/>
+      <mj-class name="bgV+2" background-color="#002b1c"/>
       <mj-divider padding="0" border-style="solid" border-width="1px" border-color="#eeeeee"></mj-divider>
       <mj-button padding="0" inner-padding="14px 25px" font-family="'Montserrat', Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="18px" color="#ffffff" background-color="#9a7800" letter-spacing="3.5px" text-transform="uppercase" border-radius="0"></mj-button>
     </mj-attributes>
