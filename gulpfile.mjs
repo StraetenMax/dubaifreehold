@@ -6,12 +6,13 @@ import rename from 'gulp-rename';
 import { deleteAsync } from 'del';
 import through2 from 'through2';
 import { load } from 'cheerio';
-import liveServer from 'live-server';
+import browserSync from 'browser-sync';
 import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { promises as fs } from 'fs';
 
-// Définir __dirname
+// Définir
+const bs = browserSync.create();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -37,26 +38,18 @@ const ensureDistDirectory = async () => {
   }
 };
 
-// Démarrage du serveur Live avec désactivation du cache
+// Démarrage du serveur browerSync avec désactivation du cache
 const serve = (done) => {
-  const params = {
+  bs.init({
+    server: {
+      baseDir: './dist'
+    },
     port: 8080,
-    root: path.resolve(__dirname, './dist'),
-    open: true,
-    file: 'index.html',
-    wait: 500,
-    logLevel: 2, // Niveau de journalisation (0 = désactivé, 1 = erreurs, 2 = infos, 3 = débogage)
-    middleware: [
-      (req, res, next) => {
-        res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
-        res.setHeader('Pragma', 'no-cache');
-        res.setHeader('Expires', '0');
-        next();
-      }
-    ]
-  };
-  liveServer.start(params);
-  console.log('Serveur Live démarré sur le port', params.port);
+    open: false,
+    files: ['./dist/*.html'],
+    notify: false,
+    ghostMode: false
+  });
   done();
 };
 
@@ -179,7 +172,10 @@ const verification = () => {
 
 // Surveillance des modifications
 const watch = () => {
-  gulp.watch('./src/**/*.pug', gulp.series(pugToMjml, mjmlToHtml, minifyHtml, verification));
+  gulp.watch('./src/**/*.pug', gulp.series(pugToMjml, mjmlToHtml, minifyHtml, verification, (done) => {bs.reload;
+      done();
+    }
+  ));
 };
 
 // Tâche par défaut
@@ -189,10 +185,8 @@ const defaultTask = gulp.series(
   pugToMjml,
   mjmlToHtml,
   (done) => {
-    setTimeout(() => {
       gulp.series(minifyHtml, verification, serve, watch)(done);
-    }, 500);
-  }
+    }
 );
 
 // Export des tâches
